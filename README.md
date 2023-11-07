@@ -1,2 +1,2 @@
-# May-n-Tarlas-Oyunu
+# Mayın-Tarlas-Oyunu
 Mayın Tarlası Oyunu
